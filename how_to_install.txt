@@ -6,3 +6,7 @@ Step 2: Navigate to the folder that contains setup.exe and Configuration.xml
 
 Step 3: Run the Office setup command
         setup.exe /configure Configuration.xml
+
+After Completion open PowerShell as Administrator and write the command written in gift.txt then press 2 then 1 on your keyboard
+
+Done.
