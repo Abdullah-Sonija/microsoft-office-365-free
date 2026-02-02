@@ -2,5 +2,5 @@
 
 ## 1. Microsoft 365 Free Trial
 ## 2. Office 365 for Students (University Email)
-## 3. Office Online – Free Forever
+## 3. Office Offline – Free Forever
 
