@@ -1,0 +1,7 @@
+System requirement	Status
+Windows OS	✅ Windows 10 / 11
+CPU	✅ 64-bit CPU
+Office version	✅ No existing Click-to-Run conflict
+Internet	✅ Required
+User permissions	✅ Admin required
+Language	✅ English (en-US) users
