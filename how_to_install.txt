@@ -1,0 +1,8 @@
+Step 1: Open Command Prompt as Administrator
+
+Step 2: Navigate to the folder that contains setup.exe and Configuration.xml
+        cd X
+        (Replace X with the actual folder path, e.g. cd C:\ODT)
+
+Step 3: Run the Office setup command
+        setup.exe /configure Configuration.xml
